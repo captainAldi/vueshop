@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/vueshop/precache-manifest.d5838d42679433106aa9161ea0a3582e.js"
+  "https://captainaldi.github.io/vueshop/precache-manifest.322d4799e50b39f83d012cbd77627bab.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vueshop"});
